@@ -1,2 +1,5 @@
+import numpy as np
+
+
 def cov(x):
-    return cov(x)
+    return np.cov(x)
